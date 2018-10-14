@@ -17,7 +17,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = { "com.jackrutorial" })
+@ComponentScan(basePackages = { "spring_example" })
 public class WebConfig extends WebMvcConfigurerAdapter {
  
  @Autowired
