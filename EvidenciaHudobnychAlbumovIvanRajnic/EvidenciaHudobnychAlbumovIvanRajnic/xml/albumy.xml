@@ -1,0 +1,39 @@
+<Albumy>
+  <Album>
+    <Nazov>dsaaaaa</Nazov>
+    <Cislo>1</Cislo>
+    <Datum>125939046400000000</Datum>
+    <Zaner>dsad</Zaner>
+    <Popis>dsada</Popis>
+  </Album>
+  <Album>
+    <Nazov>dsad</Nazov>
+    <Cislo>2</Cislo>
+    <Datum>130988262705037443</Datum>
+    <Zaner>dsad</Zaner>
+    <Popis>dasda</Popis>
+  </Album>
+  <Album>
+    <Nazov>sada</Nazov>
+    <Cislo>3</Cislo>
+    <Datum>125308326550000000</Datum>
+    <Zaner>sad</Zaner>
+    <Popis>asdada</Popis>
+  </Album>
+  <Album>
+    <Nazov>aaaaaaaaaaa</Nazov>
+    <Cislo>4</Cislo>
+    <Datum>130988262881003924</Datum>
+    <Zaner>aaaaaaaaa</Zaner>
+    <Popis>aaaaaaa</Popis>
+  </Album>
+  <Album>
+    <Nazov>bbbbbbbbbb best</Nazov>
+    <Cislo>5</Cislo>
+    <Datum>130988825326925235</Datum>
+    <Zaner>
+    </Zaner>
+    <Popis>
+    </Popis>
+  </Album>
+</Albumy>
